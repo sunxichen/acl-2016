@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <typeSystemDescription xmlns="http://uima.apache.org/resourceSpecifier">
     <imports>
-        <import location="file:/home/woaibritneyspears/acl2016-convincing-arguments/code/de.tudarmstadt.ukp.dkpro.core.api.sentiment-asl/src/main/resources/desc/types/StanfordSentimentTypeSystem.xml"/>
+        <import location="file:/Users/sunxichen/acl-2016/code/de.tudarmstadt.ukp.dkpro.core.api.sentiment-asl/src/main/resources/desc/types/StanfordSentimentTypeSystem.xml"/>
     </imports>
 </typeSystemDescription>

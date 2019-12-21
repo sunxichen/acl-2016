@@ -1,5 +1,5 @@
 
-/* First created by JCasGen Wed Dec 18 04:18:30 UTC 2019 */
+/* First created by JCasGen Fri Dec 20 22:31:24 CST 2019 */
 package de.tudarmstadt.ukp.dkpro.core.sentiment.type;
 
 import org.apache.uima.jcas.JCas;
@@ -14,7 +14,7 @@ import org.apache.uima.cas.Feature;
 import org.apache.uima.jcas.tcas.Annotation_Type;
 
 /** Stanford CoreNLP Sentiment annotation
- * Updated by JCasGen Wed Dec 18 04:18:30 UTC 2019
+ * Updated by JCasGen Fri Dec 20 22:31:24 CST 2019
  * @generated */
 public class StanfordSentimentAnnotation_Type extends Annotation_Type {
   /** @generated */

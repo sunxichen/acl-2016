@@ -1,6 +1,6 @@
 
 
-/* First created by JCasGen Wed Dec 18 04:20:44 UTC 2019 */
+/* First created by JCasGen Fri Dec 20 22:29:24 CST 2019 */
 package de.tudarmstadt.ukp.experiments.argumentation.convincingness;
 
 import org.apache.uima.jcas.JCas; 
@@ -11,8 +11,8 @@ import org.apache.uima.jcas.tcas.Annotation;
 
 
 /** xxx
- * Updated by JCasGen Wed Dec 18 04:20:44 UTC 2019
- * XML source: /home/woaibritneyspears/acl2016-convincing-arguments/code/argumentation-convincingness-experiments-java/target/jcasgen/typesystem.xml
+ * Updated by JCasGen Fri Dec 20 22:29:24 CST 2019
+ * XML source: /Users/sunxichen/acl-2016/code/argumentation-convincingness-experiments-java/target/jcasgen/typesystem.xml
  * @generated */
 public class AdHocFeature extends Annotation {
   /** @generated

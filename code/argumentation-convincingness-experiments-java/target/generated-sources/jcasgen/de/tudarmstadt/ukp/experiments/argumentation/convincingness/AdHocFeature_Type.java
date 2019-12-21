@@ -1,5 +1,5 @@
 
-/* First created by JCasGen Wed Dec 18 04:20:44 UTC 2019 */
+/* First created by JCasGen Fri Dec 20 22:29:24 CST 2019 */
 package de.tudarmstadt.ukp.experiments.argumentation.convincingness;
 
 import org.apache.uima.jcas.JCas;
@@ -14,7 +14,7 @@ import org.apache.uima.cas.Feature;
 import org.apache.uima.jcas.tcas.Annotation_Type;
 
 /** xxx
- * Updated by JCasGen Wed Dec 18 04:20:44 UTC 2019
+ * Updated by JCasGen Fri Dec 20 22:29:24 CST 2019
  * @generated */
 public class AdHocFeature_Type extends Annotation_Type {
   /** @generated */

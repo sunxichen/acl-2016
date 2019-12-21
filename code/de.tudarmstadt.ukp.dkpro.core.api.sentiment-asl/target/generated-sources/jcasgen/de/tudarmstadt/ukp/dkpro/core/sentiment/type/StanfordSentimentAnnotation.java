@@ -1,6 +1,6 @@
 
 
-/* First created by JCasGen Wed Dec 18 04:18:30 UTC 2019 */
+/* First created by JCasGen Fri Dec 20 22:31:24 CST 2019 */
 package de.tudarmstadt.ukp.dkpro.core.sentiment.type;
 
 import org.apache.uima.jcas.JCas; 
@@ -11,8 +11,8 @@ import org.apache.uima.jcas.tcas.Annotation;
 
 
 /** Stanford CoreNLP Sentiment annotation
- * Updated by JCasGen Wed Dec 18 04:18:30 UTC 2019
- * XML source: /home/woaibritneyspears/acl2016-convincing-arguments/code/de.tudarmstadt.ukp.dkpro.core.api.sentiment-asl/target/jcasgen/typesystem.xml
+ * Updated by JCasGen Fri Dec 20 22:31:24 CST 2019
+ * XML source: /Users/sunxichen/acl-2016/code/de.tudarmstadt.ukp.dkpro.core.api.sentiment-asl/target/jcasgen/typesystem.xml
  * @generated */
 public class StanfordSentimentAnnotation extends Annotation {
   /** @generated
